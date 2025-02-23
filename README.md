@@ -1,4 +1,8 @@
-# Dehart Bruteforce (Beta)
+<h1 align="center">
+  <img src="./assets/bb-1.png" alt="BBLogo" width="250" /></br></br>
+  <strong style="font-size:60px;">Dehart Python Bruteforce (Beta)</strong>
+</h1></br>
+
 This python script is a brute force script for iterating through passwords for a login page. It uses a given username and list of passwords from a file and iterates through each until the correct password is found. 
 
 # Required Libraries
